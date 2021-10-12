@@ -112,3 +112,4 @@ dist
 # IDE's
 .vscode/
 .idea/
+.env
